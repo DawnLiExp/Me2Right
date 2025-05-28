@@ -2,11 +2,11 @@
 
 A lightweight plugin to add right-click file creation in Finder.
 
-学习下 Finder Sync Extension 的工作原理，目前只实现Finder右键-新建文本文件，其它还在规划中。
+学习下 Finder Sync Extension 的工作原理，Finder右键功能扩展，更多功能还在规划中。
 
 ## Features
-Create new text files  
-More features under planning 
+Expanded file type support in "New File" creation
+More features under planning
 
 
 ### Screenshots
